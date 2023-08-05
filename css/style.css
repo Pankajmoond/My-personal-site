@@ -1,0 +1,29 @@
+body {
+    background-color: #9DC08B;
+}
+
+hr {
+    border-style: none;
+    border-top-style:dashed;
+    border-color:  rgba(1, 49, 49, 0.74);
+    border-width: 5px;
+    width: 30%;
+    
+}
+
+img{
+    height: 200px;
+    border-radius: 20%;
+}
+
+h1{
+    color: #34883c;
+}
+
+h2{
+    color: #52a15a;
+}
+
+p{
+    color: #40513B;
+}
